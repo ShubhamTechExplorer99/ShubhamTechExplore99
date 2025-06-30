@@ -9,14 +9,20 @@ Languages & Tools: Java, Selenium WebDriver, TestNG, Maven, Git, GitHub, Jenkins
 Frameworks: Cucumber (BDD), Page Object Model (POM), Hybrid Frameworks
 Testing Areas: UI Automation, API Testing, Regression, Sanity, Smoke Testing
 CI/CD Exposure: Jenkins, GitHub Actions (basic level), Automation integration in DevOps pipeline
+
+
 #🚀 What I'm Working On
 Enhancing automation frameworks using design patterns
 Deep diving into BDD best practices with Cucumber
 Exploring REST API testing and increasing test efficiency
+
+
 #🔍 Interests
 Building and maintaining scalable automation frameworks
 Learning new test tools and integrating them into CI/CD
 Sharpening skills in version control, reporting, and test data management
+
+
 #🤝 Let’s Connect!
 #📫 Email: shubhamjadhav0119@gmail.com
 #😄 Pronouns : He/Him
